@@ -9,3 +9,5 @@ then put every ASN into the asn.txt that you want to scrape ip ranges
 then simply run the script.
 
 usage: bash ranger.sh
+
+tutorial: https://www.youtube.com/watch?v=ndpFXPKjAUY
